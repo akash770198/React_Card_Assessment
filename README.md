@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository from GitHub:
 
-    git clone <https://github.com/akash770198/React_Assessment>
+    git clone <https://github.com/akash770198/React_Card_Assessment>
 
 
 2. Navigate to the project directory:
